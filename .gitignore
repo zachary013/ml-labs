@@ -1,0 +1,38 @@
+# macOS specific files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python specific files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+env/
+venv/
+*.env
+
+# Logs and local environment
+*.log
+*.sqlite3
+
+# Byte-compiled files
+*.so
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*.bak
+*.old
+
+# Jupyter Notebook extensions and settings
+.jupyter/
+.local/
+
+# System files
+Thumbs.db
+Desktop.ini
