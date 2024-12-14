@@ -40,13 +40,7 @@ pip install -r requirements.txt
 ## Lab Descriptions
 
 ### Lab 1: Linear Regression
-Explores the fundamentals of linear regression, including model training, evaluation, and feature engineering.
-
-### Lab 2: Logistic Regression
-Covers binary classification using logistic regression, discussing model selection and performance metrics.
-
-### Lab 3: Decision Trees and Random Forests
-Investigates the use of decision trees and random forests for classification and regression problems.
+Explores the fundamentals of linear regression, including model training, evaluation, and feature 
 
 ## Usage
 
