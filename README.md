@@ -17,11 +17,11 @@ This collection of Jupyter notebooks represents my journey through the Machine L
 
 ## Prerequisites
 
-To run these notebooks, you'll need:
+To run the notebooks, ensure you have:
 
 - Python 3.7+
 - Jupyter Notebook or JupyterLab
-- Required Python libraries (see `requirements.txt`)
+- Required Python libraries listed in `requirements.txt`
 
 ## Installation
 
